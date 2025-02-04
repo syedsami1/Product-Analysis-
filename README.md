@@ -62,5 +62,11 @@ This analysis provides valuable insights into customer profitability and loyalty
 To replicate the analysis, follow these steps:
 
 1. Clone this repository to your local machine.
-
+    ```bash
+   git clone https://github.com/syedsami1/Product-Analysis-.git 
+  
 2. Install the necessary Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+
+
